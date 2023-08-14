@@ -2,7 +2,7 @@
 
 #### 此程式碼使用mediapipe庫進行手勢識別，並使用這些手勢來控制滑鼠的動作。根據用戶的手勢，用戶可以滾動、單擊以及移動滑鼠。
 
-![pic](demo.png)
+![pic](demo.gif)
 
 ## 環境建置
 安裝依賴套件`pip install -r requirement.txt` 
